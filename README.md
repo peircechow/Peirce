@@ -1,3 +1,3 @@
-# Peirce
+# Computing2016
 
-* # This is limpeh's respository
+* This is Peirce's respository
